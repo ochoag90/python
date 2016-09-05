@@ -1,0 +1,11 @@
+def hows_the_parrot():
+    print("he's pining for the fjords!")
+
+hows_the_parrot()
+
+def lumberjack(name, pronoun):
+        print("{} sleeps all night and {} work all day!".format(name, pronoun))
+
+lumberjack("Gabe", "he")
+lumberjack("Lacy", "she")
+lumberjack("Sam", "they all")
